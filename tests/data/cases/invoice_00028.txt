@@ -1,0 +1,14 @@
+INVOICE
+Vendor: Crescent Textiles
+Bill Number: INV-2024-79441
+Invoice Date: 24-06-2025
+Due Date: 09-07-2025
+
+Packaging boxes       19 x     4,630.00       87,970.00
+Safety gloves          4 x       281.00        1,124.00
+Packaging boxes       14 x       414.00        5,796.00
+Printer toner         18 x     4,255.00       76,590.00
+
+Subtotal: €171,480.00
+Taxes: €30,866.40
+Amount Due: €202,346.40

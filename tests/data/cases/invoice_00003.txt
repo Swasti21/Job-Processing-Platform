@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Bluepeak Logistics LLP
+Bill Number: INV-2025-66370
+Invoice Date: 18-05-2026
+Due Date: 02-07-2026
+
+Steel bracket         17 x     4,293.00       72,981.00
+Packaging boxes       19 x     1,889.00       35,891.00
+Copper wire 2mm        2 x     4,336.00        8,672.00
+
+Subtotal: €117,544.00
+Taxes: €21,157.92
+Amount Due: €138,701.92

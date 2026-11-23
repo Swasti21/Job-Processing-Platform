@@ -1,0 +1,14 @@
+Bluepeak Logistics LLP
+TAX INVOICE
+Invoice No: INV-2024-78779
+Invoice Date: 2026-07-24
+Due Date: 2026-09-22
+
+Bill To: Nova Consulting LLP
+
+Copper wire 2mm       20 x       711.00       14,220.00
+Cleaning supplies     10 x       853.00        8,530.00
+
+Subtotal: €22,750.00
+GST (18%): €4,095.00
+Grand Total: €26,845.00

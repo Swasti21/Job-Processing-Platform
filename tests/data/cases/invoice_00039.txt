@@ -1,0 +1,14 @@
+INVOICE
+Vendor: Bluepeak Logistics LLP
+Bill Number: INV-2026-43898
+Invoice Date: 06 Jun 2025
+Due Date: 05 Aug 2025
+
+Hydraulic hose        15 x     2,036.00       30,540.00
+LED panel              8 x     4,261.00       34,088.00
+Cleaning supplies     14 x       388.00        5,432.00
+Packaging boxes        8 x     4,929.00       39,432.00
+
+Subtotal: Rs. 1,09,492.00
+Taxes: Rs. 19,708.56
+Amount Due: Rs. 1,29,200.56

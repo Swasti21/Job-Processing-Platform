@@ -1,0 +1,12 @@
+Supplier: Sunrise Foods Pvt Ltd
+Inv No. INV-2024-72055    Dated: December 04, 2025
+Payment Due By: January 18, 2026
+
+Printer toner         18 x     4,282.00       77,076.00
+LED panel             14 x     2,934.00       41,076.00
+Packaging boxes        2 x     3,324.00        6,648.00
+Cable ties             1 x     2,237.00        2,237.00
+
+Sub-total: ₹1,27,037.00
+VAT: ₹22,866.66
+Total Due: ₹1,49,903.66

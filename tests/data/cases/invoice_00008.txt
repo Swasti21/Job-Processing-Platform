@@ -1,0 +1,14 @@
+Zenith Software Services
+TAX INVOICE
+Invoice No: INV-2026-54007
+Invoice Date: 04/02/2026
+Due Date: 06/03/2026
+
+Bill To: Nova Consulting LLP
+
+Steel bracket         13 x       651.00        8,463.00
+Steel bracket         12 x     2,945.00       35,340.00
+
+Subtotal: €43,803.00
+GST (18%): €7,884.54
+Grand Total: €51,687.54

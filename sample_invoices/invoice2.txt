@@ -1,0 +1,6 @@
+Global Tech Supplies Ltd
+Invoice No: INV-2026-002
+Dated: 2026-11-21
+Due Date: 2026-12-21
+Grand Total: $3,400.50
+Currency: USD

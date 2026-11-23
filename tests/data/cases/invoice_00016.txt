@@ -1,0 +1,10 @@
+Supplier: Lotus Packaging Co
+Inv No. INV-2024-73514    Datcd: 27-02-2025
+Payment Due By: 14-03-2025
+
+Packaging boxes        4 x       355.00        1,420.00
+Office chairs         17 x     2,950.00       50,150.00
+
+Sub-total: Rs. 51,570.00
+VAT: Rs. 9,282.60
+Total Due: Rs. 60,852.60

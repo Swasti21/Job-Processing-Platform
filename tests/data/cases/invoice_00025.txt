@@ -1,0 +1,11 @@
+Supplier: Greenfield Agro Pvt Ltd
+Inv No. INV-2025-35079    Dated: December 03, 2025
+Payment Due By: January 17, 2026
+
+Safety gloves          5 x     4,515.00       22,575.00
+Packaging boxes        8 x     2,767.00       22,136.00
+Safety gloves         18 x     1,059.00       19,062.00
+
+Sub-total: $63,773.00
+VAT: $11,479.14
+Total Due: $75,252.14

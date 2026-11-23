@@ -1,0 +1,12 @@
+INVOICE # INV-2024-07625
+From: Pioneer Chemicals Ltd
+Bill To: Horizon Healthcare
+Date: 07/04/2025
+Due Date: 22/05/2025
+
+Copper wire 2mm       17 x     1,617.00       27,489.00
+Printer toner         14 x     3,598.00       50,372.00
+
+Subtotal $77,861.00
+Tax $14,014.98
+Total Amount: $91,875.98

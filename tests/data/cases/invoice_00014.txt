@@ -1,0 +1,13 @@
+Himalaya Paper Mills
+TAX INVOICE
+Invoice No: INV-2025-02023
+Invoice Date: 28 Feb 2025
+
+Bill To: Nova Consulting LLP
+
+Office chairs          4 x     4,647.00       18,588.00
+Cleaning supplies     12 x     2,630.00       31,560.00
+
+Subtotal: ₹50,148.00
+GST (18%): ₹9,026.64
+Grand Total: ₹59,174.64

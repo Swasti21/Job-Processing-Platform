@@ -1,0 +1,12 @@
+Supplier: Sunrise Foods Pvt Ltd
+Inv No. INV-2024-55180    Dated: 13-08-2025
+Payment Due By: 12-09-2025
+
+Safety gloves         18 x     3,301.00       59,418.00
+Steel bracket          5 x     1,919.00        9,595.00
+Cable ties             1 x     2,317.00        2,317.00
+Safety gloves         16 x     3,473.00       55,568.00
+
+Sub-total: ₹1,26,898.00
+VAT: ₹22,841.64
+Total Due: ₹1,49,739.64

@@ -1,0 +1,13 @@
+INVOICE # INV-2024-34566
+From: Greenfield Agro Pvt Ltd
+Bill To: Summit Builders
+Date: 09/04/2025
+Due Date: 09/05/2025
+
+Cable ties             6 x       920.00        5,520.00
+Office chairs         11 x     2,317.00       25,487.00
+LED panel              3 x     2,434.00        7,302.00
+
+Subtotal ₹38,309.00
+Tax ₹6,895.62
+Total Amount: ₹45,204.62

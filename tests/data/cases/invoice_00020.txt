@@ -1,0 +1,16 @@
+Acme Industrial Corp
+TAX INVOICE
+Invoice No: INV-2025-48863
+Invoice Date: 14/07/2026
+Due Date: 13/08/2026
+
+Bill To: Horizon Healthcare
+
+Safety gloves          7 x     4,820.00       33,740.00
+Hydraulic hose        19 x       415.00        7,885.00
+Cable ties            13 x     4,465.00       58,045.00
+Copper wire 2mm        6 x     4,217.00       25,302.00
+
+Subtotal: ₹1,24,972.00
+GST (18%): ₹22,494.96
+Grand Total: ₹1,47,466.96

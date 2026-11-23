@@ -1,0 +1,11 @@
+Supplier: Kaveri Electronics
+Inv No. INV-2024-15296    Dated: 12/06/2026
+Payment Due By: 27/06/2026
+
+Cable ties            10 x     1,821.00       18,210.00
+Office chairs          5 x     4,961.00       24,805.00
+Copper wire 2mm        8 x     1,086.00        8,688.00
+
+Sub-total: $51,703.00
+VAT: $9,306.54
+Total Due: $61,009.54

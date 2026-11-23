@@ -1,0 +1,16 @@
+Himalaya Paper Mills
+TAX INVOICE
+Invoice No: INV-2025-46746
+Invoice Date: 21/01/2026
+Due Date: 05/02/2026
+
+Bill To: Nova Consulting LLP
+
+Safety gloves         18 x     2,443.00       43,974.00
+Office chairs         15 x     1,204.00       18,060.00
+LED panel             10 x       252.00        2,520.00
+Hydraulic hose        12 x     3,827.00       45,924.00
+
+Subtotal: $110,478.00
+GST (18%): $19,886.04
+Grand Total: $130,364.04

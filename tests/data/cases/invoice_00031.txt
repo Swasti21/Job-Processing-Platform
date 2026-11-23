@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Kaveri Electronics
+Bill Number: INV-2025-69206
+Invoice Date: 18/06/2026
+Due Date: 03/07/2026
+
+Hydraulic hose         8 x     1,767.00       14,136.00
+Packaging boxes       17 x     4,363.00       74,171.00
+Safety gloves         17 x     1,780.00       30,260.00
+
+Subtotal: Rs. 1,18,567.00
+Taxes: Rs. 21,342.06
+Amount Due: Rs. 1,39,909.06

@@ -1,0 +1,14 @@
+INVOICE # INV-2024-22561
+From: Kaveri Electronics
+Bill To: Apex Retail Pvt Ltd
+Date: 28/07/2025
+Due Date: 27/08/2025
+
+Safety gloves          5 x     2,251.00       11,255.00
+Steel bracket         12 x     3,312.00       39,744.00
+Cleaning supplies     16 x     4,318.00       69,088.00
+Cleaning supplies      9 x     2,951.00       26,559.00
+
+Subtotal €146,646.00
+Tax €26,396.28
+Total Amount: €173,042.28

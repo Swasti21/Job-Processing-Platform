@@ -1,0 +1,15 @@
+Metro Tools & Dies
+TAX INVOICE
+Invoice No: INV-2025-63297
+Invoice Date: 13/12/2025
+
+Bill To: Apex Retail Pvt Ltd
+
+Steel bracket          9 x     2,725.00       24,525.00
+Cable ties             7 x     3,794.00       26,558.00
+Copper wire 2mm        9 x     3,076.00       27,684.00
+Cable ties            18 x     1,587.00       28,566.00
+
+Subtotal: Rs. 1,07,333.00
+GST (18%): Rs. 19,319.94
+Grand Total: Rs. 1,26,652.94

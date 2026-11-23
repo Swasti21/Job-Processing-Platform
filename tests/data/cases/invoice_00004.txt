@@ -1,0 +1,14 @@
+INVOICE
+Vendor: Delta Fabrication Works
+Bill Number: INV-2024-82139
+Invoice Date: 13 Apr 2026
+Due Date: 28 May 2026
+
+Hydraulic hose        17 x     3,973.00       67,541.00
+Safety gloves         14 x     1,709.00       23,926.00
+Steel bracket          9 x       125.00        1,125.00
+Cleaning supplies      5 x     4,942.00       24,710.00
+
+Subtotal: €117,302.00
+Taxes: €21,114.36
+Amount Due: €138,416.36

@@ -1,0 +1,13 @@
+Crescent Textiles
+TAX INVOICE
+Invoice No: INV-2026-62736
+Invoice Date: 2026-07-08
+
+Bill To: Apex Retail Pvt Ltd
+
+Copper wire 2mm        4 x     3,259.00       13,036.00
+Safety gloves          6 x     4,430.00       26,580.00
+
+Subtotal: $39,616.00
+GST (18%): $7,130.88
+Grand Total: $46,746.88

@@ -1,0 +1,12 @@
+Supplier: Acme Industrial Corp
+Inv No. INV-2024-72481    Dated: 08-02-2025
+Payment Due By: 25-03-2025
+
+Steel bracket         11 x       510.00        5,610.00
+Steel bracket          8 x     3,904.00       31,232.00
+Packaging boxes        8 x     4,216.00       33,728.00
+Printer toner         13 x     2,998.00       38,974.00
+
+Sub-total: $109,544.00
+VAT: $19,717.92
+Total Due: $129,261.92

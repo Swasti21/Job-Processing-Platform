@@ -1,0 +1,10 @@
+Supplier: Metro Tools & Dies
+Inv No. INV-2024-95144    Dated: 06-06-2026
+Payment Due By: 21-07-2026
+
+Office chairs         17 x     4,329.00       73,593.00
+LED panel             11 x     4,057.00       44,627.00
+
+Sub-total: €118,220.00
+VAT: €21,279.60
+Total Due: €139,499.60

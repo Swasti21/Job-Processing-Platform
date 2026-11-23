@@ -1,0 +1,11 @@
+Supplier: Orbit Office Solutions
+Inv No. INV-2026-53912    Dated: 30/05/2025
+Payment Due By: 14/06/2025
+
+Copper wire 2mm       19 x     4,527.00       86,013.00
+Printer toner         20 x     1,678.00       33,560.00
+Cable ties             4 x       415.00        1,660.00
+
+Sub-total: ₹1,21,233.00
+VAT: ₹21,821.94
+Total Due: ₹1,43,054.94

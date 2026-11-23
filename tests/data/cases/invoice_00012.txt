@@ -1,0 +1,13 @@
+INVOICE # INV-2024-12206
+From: Delta Fabrication Works
+Bill To: Summit Builders
+Date: 11/04/2026
+Due Date: 10/06/2026
+
+Cable ties             6 x     2,931.00       17,586.00
+Printer toner         19 x     4,460.00       84,740.00
+Cable ties             4 x     2,347.00        9,388.00
+
+Subtotal Rs. 1,11,714.00
+Tax Rs. 20,108.52
+Total Amount: Rs. 1,31,822.52

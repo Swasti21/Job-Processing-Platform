@@ -1,0 +1,322 @@
+{
+  "invoice_00001.txt": {
+    "invoice_number": "INV-2024-78779",
+    "invoice_date": "2026-07-24",
+    "due_date": "2026-09-22",
+    "vendor": "Bluepeak Logistics LLP",
+    "total": 26845.0,
+    "currency": "EUR"
+  },
+  "invoice_00002.txt": {
+    "invoice_number": "INV-2025-46746",
+    "invoice_date": "2026-01-21",
+    "due_date": "2026-02-05",
+    "vendor": "Himalaya Paper Mills",
+    "total": 130364.04,
+    "currency": "USD"
+  },
+  "invoice_00003.txt": {
+    "invoice_number": "INV-2025-66370",
+    "invoice_date": "2026-05-18",
+    "due_date": "2026-07-02",
+    "vendor": "Bluepeak Logistics LLP",
+    "total": 138701.92,
+    "currency": "EUR"
+  },
+  "invoice_00004.txt": {
+    "invoice_number": "INV-2024-82139",
+    "invoice_date": "2026-04-13",
+    "due_date": "2026-05-28",
+    "vendor": "Delta Fabrication Works",
+    "total": 138416.36,
+    "currency": "EUR"
+  },
+  "invoice_00005.txt": {
+    "invoice_number": "INV-2025-67013",
+    "invoice_date": "2026-05-25",
+    "due_date": "2026-06-09",
+    "vendor": "Pioneer Chemicals Ltd",
+    "total": 122783.72,
+    "currency": "USD"
+  },
+  "invoice_00006.txt": {
+    "invoice_number": "INV-2026-53912",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-06-14",
+    "vendor": "Orbit Office Solutions",
+    "total": 143054.94,
+    "currency": "INR"
+  },
+  "invoice_00007.txt": {
+    "invoice_number": "INV-2024-41084",
+    "invoice_date": "2026-08-21",
+    "due_date": "2026-10-20",
+    "vendor": "Greenfield Agro Pvt Ltd",
+    "total": 190612.48,
+    "currency": "INR"
+  },
+  "invoice_00008.txt": {
+    "invoice_number": "INV-2026-54007",
+    "invoice_date": "2026-02-04",
+    "due_date": "2026-03-06",
+    "vendor": "Zenith Software Services",
+    "total": 51687.54,
+    "currency": "EUR"
+  },
+  "invoice_00009.txt": {
+    "invoice_number": "INV-2024-65218",
+    "invoice_date": "2026-04-23",
+    "due_date": "2026-05-23",
+    "vendor": "Lotus Packaging Co",
+    "total": 90070.58,
+    "currency": "INR"
+  },
+  "invoice_00010.txt": {
+    "invoice_number": "INV-2025-98922",
+    "invoice_date": "2025-07-13",
+    "due_date": "2025-07-28",
+    "vendor": "Northwind Supplies",
+    "total": 46598.2,
+    "currency": "INR"
+  },
+  "invoice_00011.txt": {
+    "invoice_number": "INV-2025-24537",
+    "invoice_date": "2025-12-19",
+    "due_date": "2026-02-17",
+    "vendor": "Sunrise Foods Pvt Ltd",
+    "total": 127353.86,
+    "currency": "EUR"
+  },
+  "invoice_00012.txt": {
+    "invoice_number": "INV-2024-12206",
+    "invoice_date": "2026-04-11",
+    "due_date": "2026-06-10",
+    "vendor": "Delta Fabrication Works",
+    "total": 131822.52,
+    "currency": "INR"
+  },
+  "invoice_00013.txt": {
+    "invoice_number": "INV-2024-34566",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-09",
+    "vendor": "Greenfield Agro Pvt Ltd",
+    "total": 45204.62,
+    "currency": "INR"
+  },
+  "invoice_00014.txt": {
+    "invoice_number": "INV-2025-02023",
+    "invoice_date": "2025-02-28",
+    "due_date": null,
+    "vendor": "Himalaya Paper Mills",
+    "total": 59174.64,
+    "currency": "INR"
+  },
+  "invoice_00015.txt": {
+    "invoice_number": "INV-2025-88595",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-17",
+    "vendor": "Crescent Textiles",
+    "total": 52807.36,
+    "currency": "EUR"
+  },
+  "invoice_00016.txt": {
+    "invoice_number": "INV-2024-73514",
+    "invoice_date": "2025-02-27",
+    "due_date": "2025-03-14",
+    "vendor": "Lotus Packaging Co",
+    "total": 60852.6,
+    "currency": "INR"
+  },
+  "invoice_00017.txt": {
+    "invoice_number": "INV-2024-55180",
+    "invoice_date": "2025-08-13",
+    "due_date": "2025-09-12",
+    "vendor": "Sunrise Foods Pvt Ltd",
+    "total": 149739.64,
+    "currency": "INR"
+  },
+  "invoice_00018.txt": {
+    "invoice_number": "INV-2024-72481",
+    "invoice_date": "2025-02-08",
+    "due_date": "2025-03-25",
+    "vendor": "Acme Industrial Corp",
+    "total": 129261.92,
+    "currency": "USD"
+  },
+  "invoice_00019.txt": {
+    "invoice_number": "INV-2025-83495",
+    "invoice_date": "2026-04-14",
+    "due_date": "2026-06-13",
+    "vendor": "Ridgeway Hardware Ltd",
+    "total": 25109.22,
+    "currency": "USD"
+  },
+  "invoice_00020.txt": {
+    "invoice_number": "INV-2025-48863",
+    "invoice_date": "2026-07-14",
+    "due_date": "2026-08-13",
+    "vendor": "Acme Industrial Corp",
+    "total": 147466.96,
+    "currency": "INR"
+  },
+  "invoice_00021.txt": {
+    "invoice_number": "INV-2025-05452",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-28",
+    "vendor": "Himalaya Paper Mills",
+    "total": 83597.1,
+    "currency": "USD"
+  },
+  "invoice_00022.txt": {
+    "invoice_number": "INV-2024-15296",
+    "invoice_date": "2026-06-12",
+    "due_date": "2026-06-27",
+    "vendor": "Kaveri Electronics",
+    "total": 61009.54,
+    "currency": "USD"
+  },
+  "invoice_00023.txt": {
+    "invoice_number": "INV-2025-34416",
+    "invoice_date": "2025-11-05",
+    "due_date": "2025-12-20",
+    "vendor": "Acme Industrial Corp",
+    "total": 144948.84,
+    "currency": "EUR"
+  },
+  "invoice_00024.txt": {
+    "invoice_number": "INV-2026-29629",
+    "invoice_date": "2025-06-22",
+    "due_date": "2025-08-06",
+    "vendor": "Himalaya Paper Mills",
+    "total": 100458.12,
+    "currency": "USD"
+  },
+  "invoice_00025.txt": {
+    "invoice_number": "INV-2025-35079",
+    "invoice_date": "2025-12-03",
+    "due_date": "2026-01-17",
+    "vendor": "Greenfield Agro Pvt Ltd",
+    "total": 75252.14,
+    "currency": "USD"
+  },
+  "invoice_00026.txt": {
+    "invoice_number": "INV-2024-72055",
+    "invoice_date": "2025-12-04",
+    "due_date": "2026-01-18",
+    "vendor": "Sunrise Foods Pvt Ltd",
+    "total": 149903.66,
+    "currency": "INR"
+  },
+  "invoice_00027.txt": {
+    "invoice_number": "INV-2025-63297",
+    "invoice_date": "2025-12-13",
+    "due_date": null,
+    "vendor": "Metro Tools & Dies",
+    "total": 126652.94,
+    "currency": "INR"
+  },
+  "invoice_00028.txt": {
+    "invoice_number": "INV-2024-79441",
+    "invoice_date": "2025-06-24",
+    "due_date": "2025-07-09",
+    "vendor": "Crescent Textiles",
+    "total": 202346.4,
+    "currency": "EUR"
+  },
+  "invoice_00029.txt": {
+    "invoice_number": "INV-2025-79510",
+    "invoice_date": "2026-05-07",
+    "due_date": "2026-06-21",
+    "vendor": "Ridgeway Hardware Ltd",
+    "total": 153900.32,
+    "currency": "USD"
+  },
+  "invoice_00030.txt": {
+    "invoice_number": "INV-2024-95144",
+    "invoice_date": "2026-06-06",
+    "due_date": "2026-07-21",
+    "vendor": "Metro Tools & Dies",
+    "total": 139499.6,
+    "currency": "EUR"
+  },
+  "invoice_00031.txt": {
+    "invoice_number": "INV-2025-69206",
+    "invoice_date": "2026-06-18",
+    "due_date": "2026-07-03",
+    "vendor": "Kaveri Electronics",
+    "total": 139909.06,
+    "currency": "INR"
+  },
+  "invoice_00032.txt": {
+    "invoice_number": "INV-2025-85312",
+    "invoice_date": "2026-02-06",
+    "due_date": "2026-03-08",
+    "vendor": "Lotus Packaging Co",
+    "total": 59375.24,
+    "currency": "INR"
+  },
+  "invoice_00033.txt": {
+    "invoice_number": "INV-2024-89120",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-08-06",
+    "vendor": "Northwind Supplies",
+    "total": 74520.54,
+    "currency": "INR"
+  },
+  "invoice_00034.txt": {
+    "invoice_number": "INV-2024-07625",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-22",
+    "vendor": "Pioneer Chemicals Ltd",
+    "total": 91875.98,
+    "currency": "USD"
+  },
+  "invoice_00035.txt": {
+    "invoice_number": "INV-2025-20777",
+    "invoice_date": "2026-07-03",
+    "due_date": "2026-09-01",
+    "vendor": "Orbit Office Solutions",
+    "total": 119806.58,
+    "currency": "EUR"
+  },
+  "invoice_00036.txt": {
+    "invoice_number": "INV-2024-22561",
+    "invoice_date": "2025-07-28",
+    "due_date": "2025-08-27",
+    "vendor": "Kaveri Electronics",
+    "total": 173042.28,
+    "currency": "EUR"
+  },
+  "invoice_00037.txt": {
+    "invoice_number": "INV-2025-49467",
+    "invoice_date": "2025-02-19",
+    "due_date": "2025-04-05",
+    "vendor": "Ridgeway Hardware Ltd",
+    "total": 165520.96,
+    "currency": "USD"
+  },
+  "invoice_00038.txt": {
+    "invoice_number": "INV-2026-62736",
+    "invoice_date": "2026-07-08",
+    "due_date": null,
+    "vendor": "Crescent Textiles",
+    "total": 46746.88,
+    "currency": "USD"
+  },
+  "invoice_00039.txt": {
+    "invoice_number": "INV-2026-43898",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-08-05",
+    "vendor": "Bluepeak Logistics LLP",
+    "total": 129200.56,
+    "currency": "INR"
+  },
+  "invoice_00040.txt": {
+    "invoice_number": "INV-2026-50020",
+    "invoice_date": "2026-05-10",
+    "due_date": "2026-07-09",
+    "vendor": "Pioneer Chemicals Ltd",
+    "total": 156824.36,
+    "currency": "INR"
+  }
+}

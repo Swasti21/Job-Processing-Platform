@@ -1,0 +1,12 @@
+Supplier: Pioneer Chemicals Ltd
+Inv No. INV-2026-50020    Dated: May 10, 2026
+Payment Due By: July 09, 2026
+
+Cleaning supplies      2 x     4,387.00        8,774.00
+Printer toner          5 x     2,463.00       12,315.00
+Safety gloves         17 x     2,621.00       44,557.00
+Steel bracket         14 x     4,804.00       67,256.00
+
+Sub-total: Rs. 1,32,902.00
+VAT: Rs. 23,922.36
+Total Due: Rs. 1,56,824.36

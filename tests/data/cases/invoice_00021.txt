@@ -1,0 +1,13 @@
+INVOICE # INV-2025-05452
+From: Himalaya Paper Mills
+Bill To: Apex Retail Pvt Ltd
+Date: 14-07-2025
+Due Date: 28-08-2025
+
+Hydraulic hose        12 x     1,147.00       13,764.00
+Office chairs          7 x       127.00          889.00
+LED panel             16 x     3,512.00       56,192.00
+
+Subtotal $70,845.00
+Tax $12,752.10
+Total Amount: $83,597.10

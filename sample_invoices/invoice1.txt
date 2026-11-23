@@ -1,0 +1,7 @@
+Acme Corporation
+TAX INVOICE
+Invoice No: INV-2026-001
+Invoice Date: 2026-11-20
+Payment Due By: 2026-12-20
+Total Amount: $1,250.00
+Currency: USD

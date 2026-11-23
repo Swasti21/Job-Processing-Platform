@@ -1,0 +1,14 @@
+Greenfield Agro Pvt Ltd
+TAX INVOICE
+Invoice No: INV-2024-41084
+Invoice Date: 21-08-2026
+Due Date: 20-10-2026
+
+Bill To: Nova Consulting LLP
+
+Packaging boxes       16 x     4,866.00       77,856.00
+Safety gloves         20 x     4,184.00       83,680.00
+
+Subtotal: Rs. 1,61,536.00
+GST (18%): Rs. 29,076.48
+Grand Total: Rs. 1,90,612.48

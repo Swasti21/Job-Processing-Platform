@@ -1,0 +1,12 @@
+Supplier: Lotus Packaging Co
+Inv No. INV-2025-85312    Dated: 06-02-2026
+Payment Due By: 08-03-2026
+
+Packaging boxes        5 x     1,229.00        6,145.00
+Steel bracket         19 x       550.00       10,450.00
+Packaging boxes        9 x     2,502.00       22,518.00
+Cable ties             5 x     2,241.00       11,205.00
+
+Sub-total: Rs. 50,318.00
+VAT: Rs. 9,057.24
+Total Due: Rs. 59,375.24

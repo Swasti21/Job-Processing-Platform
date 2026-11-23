@@ -1,0 +1,15 @@
+Orbit Office Solutions
+TAX INVOICE
+Invoice No: INV-2025-20777
+Invoice Date: July 03, 2026
+Due Date: September 01, 2026
+
+Bill To: Summit Builders
+
+Cleaning supplies      7 x     2,578.00       18,046.00
+Copper wire 2mm       18 x     3,996.00       71,928.00
+Copper wire 2mm        7 x     1,651.00       11,557.00
+
+Subtotal: €101,531.00
+GST (18%): €18,275.58
+Grand Total: €119,806.58

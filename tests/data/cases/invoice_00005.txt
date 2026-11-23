@@ -1,0 +1,11 @@
+Supplier: Pioneer Chemicals Ltd
+Inv No. INV-2025-67013    Dated: 25 May 2026
+Payment Due By: 09 Jun 2026
+
+Cable ties             4 x     3,641.00       14,564.00
+Packaging boxes        9 x     3,760.00       33,840.00
+Copper wire 2mm       14 x     3,975.00       55,650.00
+
+Sub-total: $104,054.00
+VAT: $18,729.72
+Total Due: $122,783.72

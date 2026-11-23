@@ -1,0 +1,14 @@
+INVOICE # INV-2024-65218
+From: Lotus Packaging Co
+Bill To: Apex Retail Pvt Ltd
+Date: 23-04-2026
+Due Date: 23-05-2026
+
+Office chairs          7 x     3,602.00       25,214.00
+Office chairs         11 x     3,808.00       41,888.00
+Cable ties             8 x       619.00        4,952.00
+Printer toner         13 x       329.00        4,277.00
+
+Subtotal Rs. 76,331.00
+Tax Rs. 13,739.58
+Total Amount: Rs. 90,070.58

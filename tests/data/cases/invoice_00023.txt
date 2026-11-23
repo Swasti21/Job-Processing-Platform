@@ -1,0 +1,10 @@
+Supplier: Acme Industrial Corp
+Inv N0. INV-2025-34416    Dated: November 05, 2025
+Payment Due By: December 20, 2025
+
+Printer toner         18 x     4,301.00       77,418.00
+Office chairs         12 x     3,785.00       45,420.00
+
+Sub-total: €122,838.00
+VAT: €22,110.84
+Total Due: €144,948.84

@@ -1,0 +1,12 @@
+INVOICE
+Vendor: Northwind Supplies
+Bill Number: INV-2025-98922
+Invoice Date: 13-07-2025
+Due Date: 28-07-2025
+
+Packaging boxes       17 x     1,178.00       20,026.00
+Safety gloves          6 x     3,244.00       19,464.00
+
+Subtotal: Rs. 39,490.00
+Taxes: Rs. 7,108.20
+Amount Due: Rs. 46,598.20

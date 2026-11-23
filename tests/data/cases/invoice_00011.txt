@@ -1,0 +1,11 @@
+Supplier: Sunrise Foods Pvt Ltd
+Inv No. INV-2025-24537    Dated: December 19, 2025
+Payment Due By: February 17, 2026
+
+LED panel             15 x     1,499.00       22,485.00
+Cleaning supplies     17 x     3,998.00       67,966.00
+Cable ties             4 x     4,369.00       17,476.00
+
+Sub-total: €107,927.00
+VAT: €19,426.86
+Total Due: €127,353.86

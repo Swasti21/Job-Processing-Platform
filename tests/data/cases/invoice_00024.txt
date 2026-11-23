@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Himalaya Paper Mills
+Bill Number: INV-2026-29629
+Invoice Date: June 22, 2025
+Due Date: August 06, 2025
+
+Printer toner         11 x     1,497.00       16,467.00
+LED panel             15 x     1,853.00       27,795.00
+Office chairs         12 x     3,406.00       40,872.00
+
+Subtotal: $85,134.00
+Taxes: $15,324.12
+Amount Due: $100,458.12

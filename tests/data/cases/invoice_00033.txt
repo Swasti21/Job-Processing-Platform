@@ -1,0 +1,12 @@
+INVOICE # INV-2024-89120
+From: Northwind Supplies
+Bill To: Summit Builders
+Date: 07 Jun 2025
+Due Date: 06 Aug 2025
+
+Cable ties            17 x     3,033.00       51,561.00
+Hydraulic hose         3 x     3,864.00       11,592.00
+
+Subtotal ₹63,153.00
+Tax ₹11,367.54
+Total Amount: ₹74,520.54
